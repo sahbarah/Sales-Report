@@ -1,0 +1,12 @@
+In this report we want to know below information for every region:
+- Total sales
+- Total profit
+- Average of sale
+- Average of profit
+- Number of products
+- Number of cities
+Then we want to see the sale for each year and quarter,I use line chart for it.
+Using bar chart to show sale by product category.Also, show top 10 country by sale.Culomn chart.
+then using donut chart to show profit by channel.
+
+To be more accurate I add a tooltip that shows highest profit, profit by months and region.
